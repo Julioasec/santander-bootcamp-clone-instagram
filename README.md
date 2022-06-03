@@ -26,7 +26,10 @@ Usando um terminal de sua preferência siga as instruções a seguir:
     # Clone o repositório na sua maquina:
     Git clone https://github.com/Julioasec/santander-bootcamp-clone-instagram.git
 
-    # Abra o arquivo index.html
+    #entre na pasta do projeto:
+    cd santander-bootcamp-clone-instagram
+
+    # Abra o arquivo index.html:
     start index.html
     
 <br/>
